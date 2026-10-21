@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/stbernard/n02109525_10417.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/stbernard/n02109525_12875.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/stbernard/n02109525_14774.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/stbernard/n02109525_10251.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

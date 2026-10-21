@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/hound-basset/n02088238_11522.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-basset/n02088238_7233.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-basset/n02088238_9585.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-basset/n02088238_9015.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

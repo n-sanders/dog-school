@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/shihtzu/n02086240_11766.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/shihtzu/n02086240_5316.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/shihtzu/n02086240_3186.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/shihtzu/n02086240_7299.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

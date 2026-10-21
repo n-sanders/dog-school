@@ -29,6 +29,15 @@ quiz:
     choices: [Maltese, West Highland White Terrier]
     answer: West Highland White Terrier
     explanation: Maltese have drop ears hidden in long, silky hair.
+  - type: question
+    prompt: How can you tell a West Highland White Terrier from a light-colored Cairn Terrier?
+    choices:
+      - A Westie is pure white with a rounded face; a Cairn is never pure white and has a shaggier, foxy face often with dark ears and muzzle
+      - A Cairn Terrier has long drop ears and a silky floor-length coat
+      - A Westie has a long, bushy tail carried low
+    answer: A Westie is pure white with a rounded face; a Cairn is never pure white and has a shaggier, foxy face often with dark ears and muzzle
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Westie or Maltese?

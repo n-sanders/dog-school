@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/samoyed/n02111889_10324.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/samoyed/n02111889_6376.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/samoyed/n02111889_4679.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/samoyed/n02111889_1714.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

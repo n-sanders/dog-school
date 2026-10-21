@@ -25,6 +25,15 @@ quiz:
     prompt: Which sled dog is all white, cream or biscuit and known for its "smile"?
     choices: [Siberian Husky, Alaskan Malamute, Samoyed]
     answer: Samoyed
+  - type: question
+    prompt: Which set of features is typical of Arctic spitz breeds?
+    choices:
+      - A thick double coat, erect triangular ears and a bushy tail carried over the back
+      - A short smooth coat, long drop ears and a thin whip tail
+      - A flat wrinkled face, small rose ears and a low-slung body
+    answer: A thick double coat, erect triangular ears and a bushy tail carried over the back
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Spitz dogs

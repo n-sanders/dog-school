@@ -28,6 +28,8 @@ quiz:
     prompt: A short, fawn-colored coat with a black mask on the face suggests a...
     choices: [German Shepherd Dog, Belgian Malinois, Labrador Retriever]
     answer: Belgian Malinois
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Working partners

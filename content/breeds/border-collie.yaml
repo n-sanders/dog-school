@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/collie-border/n02106166_180.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/collie-border/n02106166_1284.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/collie-border/n02106166_731.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/collie-border/n02106166_943.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

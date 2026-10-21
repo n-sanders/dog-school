@@ -27,6 +27,15 @@ quiz:
     prompt: Which is the most reliable clue to tell a yellow Lab from a Golden Retriever?
     choices: [Coat color, Coat length and feathering, Eye color]
     answer: Coat length and feathering
+  - type: question
+    prompt: How can you tell a Golden Retriever from a sable Rough Collie?
+    choices:
+      - A Golden has a broad skull and drop ears; a Rough Collie has a long wedge-shaped head, a big mane and semi-erect ears
+      - A Golden has erect triangular ears and a curled tail
+      - A Rough Collie has a short, flat coat with no feathering
+    answer: A Golden has a broad skull and drop ears; a Rough Collie has a long wedge-shaped head, a big mane and semi-erect ears
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Color is a trap

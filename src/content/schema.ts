@@ -89,7 +89,7 @@ export const LessonFrontmatterSchema = z.object({
   images: z.array(LessonImageSchema).default([]),
   compare: z.array(z.tuple([slug, slug])).default([]),
   sources: z.array(SourceSchema).default([]),
-  quiz: z.array(QuizItemSchema).min(3, "each lesson quiz needs at least three items"),
+  quiz: z.array(QuizItemSchema).min(5, "each lesson quiz needs at least five items"),
   passMark: z.number().min(0).max(1).default(0.8),
   reviewedBy: z.string().default(""),
   reviewedOn: z.string().default(""),

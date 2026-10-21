@@ -25,6 +25,17 @@ quiz:
     choices: [Labrador Retriever, Golden Retriever]
     answer: Golden Retriever
     explanation: Labradors have a short, flat coat with no feathering. Goldens have a longer coat with feathering.
+  - type: question
+    prompt: Which coat colors are standard for a Labrador Retriever?
+    choices:
+      - Solid black, yellow or chocolate
+      - Only shades of gold
+      - Tricolor with a black saddle
+      - White with black spots
+    answer: Solid black, yellow or chocolate
+    explanation: Labradors come in one solid color - black, yellow or chocolate.
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Two famous retrievers

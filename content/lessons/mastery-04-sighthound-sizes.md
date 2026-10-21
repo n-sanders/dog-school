@@ -32,6 +32,13 @@ quiz:
       - Count its spots
       - Look at its eye color
     answer: Compare it to nearby objects such as a person, chair or door
+  - type: question
+    prompt: You see a smooth-coated sighthound curled up easily in a person's lap, with very fine, delicate bones. Which breed is it?
+    choices: [Italian Greyhound, Whippet, Borzoi, Afghan Hound]
+    answer: Italian Greyhound
+    explanation: The Italian Greyhound is a tiny toy sighthound (13 to 15 inches tall), whereas the Whippet is a medium-sized hound (18 to 22 inches tall).
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Size in photos

@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_6485.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_5080.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_522.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_2062.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

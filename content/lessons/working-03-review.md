@@ -28,6 +28,8 @@ quiz:
     breed: great-dane
   - type: find
     breed: saint-bernard
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

@@ -25,6 +25,12 @@ quiz:
     choices: [Bulldog (English Bulldog), French Bulldog]
     answer: French Bulldog
     explanation: The English Bulldog has small "rose" ears that fold back.
+  - type: question
+    prompt: Which bulldog has a heavier, wider body, an undershot jaw with hanging "chops", and small folded "rose" ears?
+    choices: [Bulldog (English Bulldog), French Bulldog]
+    answer: Bulldog (English Bulldog)
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Two bulldogs

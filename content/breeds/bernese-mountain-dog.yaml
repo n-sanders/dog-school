@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_4515.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_2664.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_6200.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_5821.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

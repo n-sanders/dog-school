@@ -31,6 +31,15 @@ quiz:
       - A Pug is always white
       - A French Bulldog has a curly coat
     answer: A Pug has a curled tail and folded ears; a French Bulldog has upright bat ears
+  - type: question
+    prompt: How can you tell a Maltese from a Shih Tzu?
+    choices:
+      - A Maltese is always pure white with a finer, longer muzzle; a Shih Tzu is usually multi-colored with a shorter face
+      - A Maltese has a short fawn coat and a black mask
+      - A Shih Tzu has large, upright bat ears
+    answer: A Maltese is always pure white with a finer, longer muzzle; a Shih Tzu is usually multi-colored with a shorter face
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Pug

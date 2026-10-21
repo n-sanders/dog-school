@@ -22,6 +22,8 @@ quiz:
     breed: maltese
   - type: find
     breed: shih-tzu
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

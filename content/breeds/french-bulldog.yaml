@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_5367.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_1513.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_311.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_2514.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

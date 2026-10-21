@@ -18,6 +18,12 @@ describe("content loader", () => {
     const taught = new Set([...content.lessons.values()].flatMap((l) => l.breeds));
     for (const slug of content.breeds.keys()) expect(taught, slug).toContain(slug);
   });
+
+  it("every lesson quiz has at least five items", () => {
+    for (const lesson of content.lessons.values()) {
+      expect(lesson.quiz.length, lesson.id).toBeGreaterThanOrEqual(5);
+    }
+  });
 });
 
 describe("integrity checks", () => {
@@ -81,9 +87,28 @@ quiz:
   - { type: question, prompt: P, choices: [A, B], answer: C }
   - { type: identify, breed: pug }
   - { type: identify, breed: pug }
+  - { type: identify, breed: pug }
+  - { type: identify, breed: pug }
 ---
 Body`;
     expect(() => parseLesson(md, "x.md")).toThrow(/answer must be one of the choices/);
+  });
+
+  it("rejects a lesson quiz with fewer than five items", () => {
+    const md = `---
+id: x
+title: X
+unit: basics
+summary: S
+objectives: [O]
+quiz:
+  - { type: identify, breed: pug }
+  - { type: identify, breed: pug }
+  - { type: identify, breed: pug }
+  - { type: identify, breed: pug }
+---
+Body`;
+    expect(() => parseLesson(md, "x.md")).toThrow(/at least five items/);
   });
 
   it("rejects a lesson without frontmatter", () => {

@@ -28,6 +28,8 @@ quiz:
     breed: yorkshire-terrier
   - type: find
     breed: west-highland-white-terrier
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

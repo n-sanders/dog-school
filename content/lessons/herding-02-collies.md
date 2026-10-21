@@ -25,6 +25,12 @@ quiz:
     prompt: A Shetland Sheepdog looks like a small version of which breed?
     choices: [Border Collie, Rough Collie, Australian Shepherd, Pembroke Welsh Corgi]
     answer: Rough Collie
+  - type: question
+    prompt: Which collie-type breed is usually black and white and famous for its intense "herding eye" stare?
+    choices: [Border Collie, Rough Collie, Shetland Sheepdog, German Shepherd Dog]
+    answer: Border Collie
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Collie-type dogs

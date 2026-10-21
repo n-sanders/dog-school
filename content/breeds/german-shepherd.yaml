@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_855.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_3260.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_13123.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_9292.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

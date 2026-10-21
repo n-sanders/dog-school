@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_11812.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_8298.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_6979.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_11088.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

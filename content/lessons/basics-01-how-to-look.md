@@ -49,6 +49,18 @@ quiz:
     prompt: A coat that is short, dense and lies flat - like a Labrador's - is described as...
     choices: [Smooth / short, Curly, Wiry, Long and silky]
     answer: Smooth / short
+  - type: question
+    prompt: Ears that stand straight up, like a French Bulldog's or Siberian Husky's, are called...
+    choices: [Erect ears, Drop ears, Rose ears, Hound ears]
+    answer: Erect ears
+    explanation: Erect ears stand upright; drop ears hang down beside the head.
+  - type: question
+    prompt: Which of these breeds has a long, narrow muzzle rather than a short, flat face?
+    choices: [Afghan Hound, Pug, French Bulldog, Bulldog]
+    answer: Afghan Hound
+    explanation: The Afghan Hound has a long, narrow muzzle, while Pugs and Bulldogs have short, flat muzzles.
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Why features matter

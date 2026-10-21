@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_6980.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_7639.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_231.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_4882.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

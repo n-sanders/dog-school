@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_15856.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_12087.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_1013.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_9093.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

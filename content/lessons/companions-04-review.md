@@ -24,6 +24,8 @@ quiz:
     breed: golden-retriever
   - type: find
     breed: french-bulldog
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

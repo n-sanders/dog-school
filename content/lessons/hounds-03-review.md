@@ -18,6 +18,8 @@ quiz:
   - type: identify
     breed: italian-greyhound
   - type: identify
+    breed: beagle
+  - type: identify
     breed: basset-hound
   - type: identify
     breed: bloodhound
@@ -27,6 +29,8 @@ quiz:
     prompt: Which of these is a sighthound?
     choices: [Bloodhound, Basset Hound, Borzoi, Beagle]
     answer: Borzoi
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

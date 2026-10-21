@@ -36,6 +36,8 @@ quiz:
     breed: belgian-malinois
   - type: find
     breed: cardigan-welsh-corgi
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Review

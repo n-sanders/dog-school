@@ -27,6 +27,15 @@ quiz:
     prompt: The word "papillon" is French for...
     choices: [Butterfly, Little lion, Small fox, Flower]
     answer: Butterfly
+  - type: question
+    prompt: How can you tell a Pomeranian from a Papillon?
+    choices:
+      - A Pomeranian has a thick, puffy coat and small ears; a Papillon has large, fringed butterfly ears
+      - A Pomeranian has long drop ears
+      - A Papillon has a short, smooth coat with no ear fringes
+    answer: A Pomeranian has a thick, puffy coat and small ears; a Papillon has large, fringed butterfly ears
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Chihuahua

@@ -27,6 +27,15 @@ quiz:
     prompt: Which scenthound has very short legs and ears long enough to reach past its nose?
     choices: [Beagle, Basset Hound, Bloodhound]
     answer: Basset Hound
+  - type: question
+    prompt: How can you tell a Bloodhound from a Basset Hound?
+    choices:
+      - A Bloodhound is tall and long-legged with deep folds of loose skin; a Basset has very short legs
+      - A Bloodhound is a tiny dog with upright ears
+      - A Basset Hound is much taller than a Bloodhound
+    answer: A Bloodhound is tall and long-legged with deep folds of loose skin; a Basset has very short legs
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Following the nose

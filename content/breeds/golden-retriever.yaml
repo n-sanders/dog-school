@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_281.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_8181.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_176.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_7432.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

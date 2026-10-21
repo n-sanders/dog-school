@@ -22,12 +22,12 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/rough-collie/1dog-rough-collie-portrait.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/rough-collie/collie-rough.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/rough-collie/collie-chatter-rough-collie-gus-posing.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

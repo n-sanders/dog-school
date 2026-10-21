@@ -30,6 +30,15 @@ quiz:
     prompt: A herding dog with a blue merle coat and one blue eye is most likely a...
     choices: [Australian Shepherd, Belgian Malinois, Rough Collie, German Shepherd Dog]
     answer: Australian Shepherd
+  - type: question
+    prompt: How can you often tell an Australian Shepherd from a Border Collie?
+    choices:
+      - Aussies are often merle with a short tail; Border Collies are usually black and white with a long tail
+      - Border Collies have very short legs like a corgi
+      - Aussies always have a solid black coat
+    answer: Aussies are often merle with a short tail; Border Collies are usually black and white with a long tail
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## The corgis

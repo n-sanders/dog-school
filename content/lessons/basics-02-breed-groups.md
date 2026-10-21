@@ -51,6 +51,18 @@ quiz:
     prompt: A Golden Retriever, bred to fetch birds for hunters, is in which group?
     choices: [Sporting, Hound, Working, Terrier]
     answer: Sporting
+  - type: question
+    prompt: Which of the following is NOT one of the seven AKC breed groups?
+    choices: [Sporting, Working, Guarding, Terrier]
+    answer: Guarding
+    explanation: The seven AKC groups are Sporting, Hound, Working, Terrier, Toy, Non-sporting and Herding. Guard dogs are usually in the Working group.
+  - type: question
+    prompt: Tiny breeds kept mainly as companions, such as the Chihuahua, belong to which group?
+    choices: [Toy, Terrier, Working, Non-sporting]
+    answer: Toy
+    explanation: The Toy group is made up of very small companion breeds.
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Dogs were bred for jobs

@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_478.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_8535.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_1824.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_8580.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

@@ -24,6 +24,12 @@ quiz:
     prompt: The Airedale is called the "King of Terriers" because it is...
     choices: [The oldest terrier, The largest terrier, The fastest terrier]
     answer: The largest terrier
+  - type: question
+    prompt: Which tiny terrier has a long, silky steel-blue and tan coat and is placed in the AKC Toy group?
+    choices: [Yorkshire Terrier, Russell Terrier (Jack Russell), Airedale Terrier]
+    answer: Yorkshire Terrier
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Airedale Terrier

@@ -27,6 +27,15 @@ quiz:
     choices: [Siberian Husky, Alaskan Malamute]
     answer: Alaskan Malamute
     explanation: The Malamute breed standard calls for brown eyes only; blue eyes are a fault.
+  - type: question
+    prompt: Both sled dogs have brown eyes. Which clue points to an Alaskan Malamute rather than a Siberian Husky?
+    choices:
+      - A heavier build and smaller ears set wide apart on the head
+      - A lighter racing build and ears set close together high on the head
+      - A pure white coat with a "Sammy smile"
+    answer: A heavier build and smaller ears set wide apart on the head
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Unit 8: Look-alikes

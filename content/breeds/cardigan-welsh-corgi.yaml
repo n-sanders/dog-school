@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_5340.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_694.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_11073.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_2994.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

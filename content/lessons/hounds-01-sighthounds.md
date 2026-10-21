@@ -30,6 +30,22 @@ quiz:
       - They were bred to dig burrows
       - They were bred to pull sleds
     answer: They were bred to run very fast after prey
+  - type: question
+    prompt: How can you tell an Afghan Hound from a Borzoi?
+    choices:
+      - The Afghan Hound has a longer coat covering the legs, a topknot and a ring-tipped tail
+      - The Afghan Hound has a short, smooth coat
+      - The Borzoi is a tiny toy breed
+    answer: The Afghan Hound has a longer coat covering the legs, a topknot and a ring-tipped tail
+  - type: question
+    prompt: What is the main difference between a Whippet and an Italian Greyhound?
+    choices:
+      - Size - the Whippet is a medium hound, while the Italian Greyhound is a tiny toy breed
+      - Coat length - the Whippet has a long, silky coat
+      - Ear shape - the Italian Greyhound has large upright bat ears
+    answer: Size - the Whippet is a medium hound, while the Italian Greyhound is a tiny toy breed
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Built for speed

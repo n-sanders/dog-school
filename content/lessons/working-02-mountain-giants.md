@@ -26,6 +26,12 @@ quiz:
     prompt: A big Swiss dog with a black body, rust markings and a white chest is a...
     choices: [Saint Bernard, Bernese Mountain Dog, Great Dane]
     answer: Bernese Mountain Dog
+  - type: question
+    prompt: Which giant breed has a short, sleek coat and a long, rectangular head rather than a thick mountain coat?
+    choices: [Great Dane, Saint Bernard, Bernese Mountain Dog]
+    answer: Great Dane
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Bernese Mountain Dog

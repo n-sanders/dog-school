@@ -24,6 +24,16 @@ quiz:
       - Because it is a puppy
       - To scare away other dogs
     answer: So hunters can see it in tall grass
+  - type: question
+    prompt: Which pair of features best describes a Standard Poodle?
+    choices:
+      - A dense, curly coat and a long, straight muzzle
+      - A short tricolor coat and a white-tipped tail
+      - A flat, wrinkled face and upright bat ears
+      - Short legs and very long, velvety ears
+    answer: A dense, curly coat and a long, straight muzzle
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## The Beagle

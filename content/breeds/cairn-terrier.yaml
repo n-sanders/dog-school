@@ -22,15 +22,15 @@ sources:
 images:
   - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_1390.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_10959.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_2854.jpg
     note: ""
-    reviewed: false
+    reviewed: true
   - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_4082.jpg
     note: ""
-    reviewed: false
-reviewedBy: ""
-reviewedOn: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"

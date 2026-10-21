@@ -28,6 +28,12 @@ quiz:
     choices: [West Highland White Terrier, Cairn Terrier]
     answer: Cairn Terrier
     explanation: The Cairn may be almost any color except white. The Westie is always white.
+  - type: question
+    prompt: Which Scottish terrier has a long head with a prominent beard, bushy eyebrows and a very low "skirted" body?
+    choices: [Scottish Terrier, West Highland White Terrier, Cairn Terrier]
+    answer: Scottish Terrier
+reviewedBy: content-audit
+reviewedOn: "2026-10-21"
 ---
 
 ## Terriers of Scotland
