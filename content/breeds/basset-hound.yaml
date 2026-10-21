@@ -1,0 +1,36 @@
+slug: basset-hound
+name: Basset Hound
+dogCeoPath: hound/basset
+group: hound
+size: medium
+origin: France
+summary: A low, heavy scenthound with a superb nose and very long ears.
+traits:
+  - text: Very short legs on a long, heavy-boned body.
+    source: akc
+  - text: Extremely long, velvety ears that can reach past the nose.
+    source: akc
+  - text: Loose skin with wrinkles on the brow and droopy lower eyelids that give a sad expression.
+    source: akc
+  - text: Smooth, short coat, usually tricolor or red and white.
+    source: akc
+lookAlikes: [ beagle, bloodhound ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Basset Hound"
+    url: https://www.akc.org/dog-breeds/basset-hound/
+images:
+  - url: https://images.dog.ceo/breeds/hound-basset/n02088238_11522.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-basset/n02088238_7233.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-basset/n02088238_9585.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-basset/n02088238_9015.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

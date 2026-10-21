@@ -1,0 +1,36 @@
+slug: west-highland-white-terrier
+name: West Highland White Terrier
+dogCeoPath: terrier/westhighland
+group: terrier
+size: small
+origin: Scotland
+summary: A cheerful, all-white Scottish terrier with a round, "chrysanthemum" face.
+traits:
+  - text: Always pure white, with a harsh, straight outer coat.
+    source: akc
+  - text: Hair around the head is trimmed so the face looks round, like a flower.
+    source: akc
+  - text: Small, pointed, erect ears and dark, deep-set eyes.
+    source: akc
+  - text: Short, carrot-shaped tail carried straight up.
+    source: akc
+lookAlikes: [ cairn-terrier, maltese ]
+sources:
+  - id: akc
+    title: "American Kennel Club: West Highland White Terrier"
+    url: https://www.akc.org/dog-breeds/west-highland-white-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/terrier-westhighland/n02098286_1260.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-westhighland/n02098286_5015.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-westhighland/n02098286_5814.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-westhighland/n02098286_437.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

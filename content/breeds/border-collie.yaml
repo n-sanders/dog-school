@@ -1,0 +1,36 @@
+slug: border-collie
+name: Border Collie
+dogCeoPath: collie/border
+group: herding
+size: medium
+origin: Anglo-Scottish border
+summary: A tireless sheepdog, widely considered the most intelligent dog breed.
+traits:
+  - text: Most often black and white, with white on the face, collar, legs and tail tip.
+    source: akc
+  - text: Coat may be smooth (short) or rough (medium length and feathered).
+    source: akc
+  - text: Athletic body slightly longer than tall, with a long, low-carried tail.
+    source: akc
+  - text: Ears may be erect or semi-erect, and the gaze is intense and focused.
+    source: akc
+lookAlikes: [ australian-shepherd ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Border Collie"
+    url: https://www.akc.org/dog-breeds/border-collie/
+images:
+  - url: https://images.dog.ceo/breeds/collie-border/n02106166_180.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/collie-border/n02106166_1284.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/collie-border/n02106166_731.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/collie-border/n02106166_943.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

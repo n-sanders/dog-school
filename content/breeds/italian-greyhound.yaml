@@ -1,0 +1,36 @@
+slug: italian-greyhound
+name: Italian Greyhound
+dogCeoPath: greyhound/italian
+group: toy
+size: small
+origin: Italy
+summary: The smallest sighthound - a miniature greyhound kept as a companion.
+traits:
+  - text: Very small and fine-boned - roughly 13 to 15 inches at the shoulder.
+    source: akc
+  - text: Same slim, curved sighthound outline as a Greyhound or Whippet.
+    source: akc
+  - text: Long, narrow head and small, folded "rose" ears.
+    source: akc
+  - text: Short, glossy coat that feels like satin.
+    source: akc
+lookAlikes: [ whippet ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Italian Greyhound"
+    url: https://www.akc.org/dog-breeds/italian-greyhound/
+images:
+  - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_11812.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_8298.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_6979.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/greyhound-italian/n02091032_11088.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

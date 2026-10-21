@@ -1,0 +1,67 @@
+---
+id: hounds-01-sighthounds
+title: Sighthounds
+unit: hounds
+summary: Lean, fast hounds that hunt by sight - Afghan Hound, Borzoi, Whippet and Italian Greyhound.
+prerequisites: [companions-04-review]
+objectives:
+  - Describe the sighthound body shape - deep chest, narrow waist, long legs
+  - Tell an Afghan Hound from a Borzoi
+  - Tell a Whippet from an Italian Greyhound by size
+breeds: [afghan-hound, borzoi, whippet, italian-greyhound]
+compare:
+  - [afghan-hound, borzoi]
+  - [whippet, italian-greyhound]
+quiz:
+  - type: identify
+    breed: afghan-hound
+  - type: identify
+    breed: borzoi
+  - type: identify
+    breed: whippet
+  - type: identify
+    breed: italian-greyhound
+  - type: find
+    breed: afghan-hound
+  - type: question
+    prompt: Sighthounds have a deep chest and a narrow waist because...
+    choices:
+      - They were bred to run very fast after prey
+      - They were bred to dig burrows
+      - They were bred to pull sleds
+    answer: They were bred to run very fast after prey
+---
+
+## Built for speed
+
+**Sighthounds** spot prey with their eyes and chase it down at high speed. They
+share a recognizable shape:
+
+- A **deep chest** (room for big lungs and heart).
+- A **narrow, tucked-up waist**.
+- **Long legs** and a long, narrow head.
+- An **arched back** over the loin.
+
+## Afghan Hound
+
+- **Coat:** long, fine and silky, with a **topknot** of long hair on the head.
+- **Back:** adults have a short-haired "saddle" along the back.
+- **Tail:** ends in a **ring or curl**.
+
+## Borzoi
+
+- **Size:** very tall and elegant.
+- **Head:** long and narrow, with a slightly curved (Roman) nose.
+- **Coat:** silky - flat, wavy or curly - often white with colored patches.
+
+**Afghan or Borzoi?** Both are tall with silky coats. The Afghan's coat is longer
+and covers the legs completely, and it has a topknot and a curled tail tip.
+
+## Whippet and Italian Greyhound
+
+These two have the classic smooth-coated sighthound shape. The difference is
+**size**:
+
+- **Whippet:** medium - about 18 to 22 inches at the shoulder.
+- **Italian Greyhound:** tiny and fine-boned - about 13 to 15 inches. It is in
+  the AKC **toy** group even though it is a sighthound.

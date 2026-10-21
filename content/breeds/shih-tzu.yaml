@@ -1,0 +1,36 @@
+slug: shih-tzu
+name: Shih Tzu
+dogCeoPath: shihtzu
+group: toy
+size: small
+origin: Tibet and China
+summary: A sturdy, affectionate "little lion dog" bred as a palace companion.
+traits:
+  - text: Long, flowing double coat in many colors, often with a white blaze and tail tip.
+    source: akc
+  - text: Short, square muzzle and a round head; hair on the face grows upward in a "chrysanthemum" pattern.
+    source: akc
+  - text: Large, dark, round eyes with a warm expression.
+    source: akc
+  - text: Heavily plumed tail carried curved over the back.
+    source: akc
+lookAlikes: [ maltese, yorkshire-terrier ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Shih Tzu"
+    url: https://www.akc.org/dog-breeds/shih-tzu/
+images:
+  - url: https://images.dog.ceo/breeds/shihtzu/n02086240_11766.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/shihtzu/n02086240_5316.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/shihtzu/n02086240_3186.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/shihtzu/n02086240_7299.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

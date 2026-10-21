@@ -1,0 +1,70 @@
+# DogSchool curriculum. Units and lessons appear to learners in this order.
+# Each lesson id must match a file in content/lessons/ (see `npm run validate`).
+title: DogSchool Breed Identification Course
+units:
+  - id: basics
+    title: "Unit 1: How to Look at a Dog"
+    description: Learn the features that experts use to tell breeds apart, and how breeds are grouped.
+    lessons:
+      - basics-01-how-to-look
+      - basics-02-breed-groups
+
+  - id: companions
+    title: "Unit 2: Popular Family Dogs"
+    description: Start with breeds you are likely to meet at the park.
+    lessons:
+      - companions-01-retrievers
+      - companions-02-beagle-and-poodle
+      - companions-03-bulldogs
+      - companions-04-review
+
+  - id: herding
+    title: "Unit 3: Herding Dogs"
+    description: Smart, athletic dogs bred to move livestock.
+    lessons:
+      - herding-01-shepherds
+      - herding-02-collies
+      - herding-03-corgis-and-aussies
+      - herding-04-review
+
+  - id: hounds
+    title: "Unit 4: Hounds"
+    description: Sighthounds hunt by speed and sight, scenthounds by nose.
+    lessons:
+      - hounds-01-sighthounds
+      - hounds-02-scenthounds
+      - hounds-03-review
+
+  - id: terriers
+    title: "Unit 5: Terriers"
+    description: Bold, wiry dogs bred to hunt vermin.
+    lessons:
+      - terriers-01-scottish-terriers
+      - terriers-02-airedale-russell-yorkie
+      - terriers-03-review
+
+  - id: toy
+    title: "Unit 6: Toy Dogs"
+    description: Small companions with big personalities.
+    lessons:
+      - toy-01-tiny-and-alert
+      - toy-02-flat-faces-and-long-coats
+      - toy-03-review
+
+  - id: working
+    title: "Unit 7: Working and Spitz Dogs"
+    description: Big, strong dogs bred for sledding, guarding and rescue.
+    lessons:
+      - working-01-sled-dogs
+      - working-02-mountain-giants
+      - working-03-review
+
+  - id: mastery
+    title: "Unit 8: Look-Alikes and Mastery"
+    description: Tell apart the breeds that are most often confused, then take the final challenge.
+    lessons:
+      - mastery-01-husky-vs-malamute
+      - mastery-02-lab-vs-golden
+      - mastery-03-small-white-dogs
+      - mastery-04-sighthound-sizes
+      - mastery-05-final-challenge

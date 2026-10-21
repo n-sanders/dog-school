@@ -1,0 +1,36 @@
+slug: golden-retriever
+name: Golden Retriever
+dogCeoPath: retriever/golden
+group: sporting
+size: large
+origin: Scotland
+summary: A gentle, eager-to-please gundog famous for its flowing golden coat.
+traits:
+  - text: Medium-length, dense coat that may be straight or wavy, in shades of gold from light cream to deep red-gold.
+    source: akc
+  - text: Feathering (longer hair) on the back of the legs, the chest, the underside and the tail.
+    source: akc
+  - text: Tail carried level or with a slight upward curve, well feathered.
+    source: akc
+  - text: Broad skull, straight muzzle and friendly, intelligent expression.
+    source: akc
+lookAlikes: [ labrador-retriever ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Golden Retriever"
+    url: https://www.akc.org/dog-breeds/golden-retriever/
+images:
+  - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_281.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_8181.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_176.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/retriever-golden/n02099601_7432.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

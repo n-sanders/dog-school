@@ -1,0 +1,36 @@
+slug: saint-bernard
+name: Saint Bernard
+dogCeoPath: stbernard
+group: working
+size: giant
+origin: Swiss Alps
+summary: A giant, gentle rescue dog of the Alps.
+traits:
+  - text: Huge, massive head with a short, deep muzzle and wrinkled brow.
+    source: akc
+  - text: Red and white or brindle and white coat, often with a dark mask.
+    source: akc
+  - text: White on the chest, feet, tail tip and a white blaze or noseband.
+    source: akc
+  - text: Coat may be short (smooth) or medium-long (rough).
+    source: akc
+lookAlikes: [ bernese-mountain-dog ]
+sources:
+  - id: akc
+    title: "American Kennel Club: St. Bernard"
+    url: https://www.akc.org/dog-breeds/st-bernard/
+images:
+  - url: https://images.dog.ceo/breeds/stbernard/n02109525_10417.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/stbernard/n02109525_12875.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/stbernard/n02109525_14774.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/stbernard/n02109525_10251.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

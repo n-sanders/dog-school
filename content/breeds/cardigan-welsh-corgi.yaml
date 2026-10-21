@@ -1,0 +1,36 @@
+slug: cardigan-welsh-corgi
+name: Cardigan Welsh Corgi
+dogCeoPath: corgi/cardigan
+group: herding
+size: small
+origin: Wales
+summary: The older of the two corgi breeds, with a long, brushy tail.
+traits:
+  - text: Long, low body on short legs, heavier-boned than the Pembroke.
+    source: akc
+  - text: Long, fox-like brush tail.
+    source: akc
+  - text: Large, rounded, erect ears.
+    source: akc
+  - text: Wider range of colors than the Pembroke, including blue merle and brindle.
+    source: akc
+lookAlikes: [ pembroke-welsh-corgi ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Cardigan Welsh Corgi"
+    url: https://www.akc.org/dog-breeds/cardigan-welsh-corgi/
+images:
+  - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_5340.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_694.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_11073.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/corgi-cardigan/n02113186_2994.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

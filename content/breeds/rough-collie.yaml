@@ -1,0 +1,33 @@
+slug: rough-collie
+name: Rough Collie
+dogCeoPath: rough/collie
+group: herding
+size: large
+origin: Scotland
+summary: A large, graceful herding dog made famous by "Lassie".
+traits:
+  - text: Abundant long coat with a very full mane and frill.
+    source: akc
+  - text: Long, smooth, wedge-shaped head that tapers to a rounded muzzle.
+    source: akc
+  - text: Large size - roughly 22 to 26 inches at the shoulder, much bigger than a Sheltie.
+    source: akc
+  - text: Ears are semi-erect, with the top quarter tipping forward.
+    source: akc
+lookAlikes: [ shetland-sheepdog ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Collie"
+    url: https://www.akc.org/dog-breeds/collie/
+images:
+  - url: https://images.dog.ceo/breeds/rough-collie/1dog-rough-collie-portrait.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/rough-collie/collie-rough.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/rough-collie/collie-chatter-rough-collie-gus-posing.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

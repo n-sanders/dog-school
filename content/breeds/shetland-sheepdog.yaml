@@ -1,0 +1,36 @@
+slug: shetland-sheepdog
+name: Shetland Sheepdog
+dogCeoPath: sheepdog/shetland
+group: herding
+size: small
+origin: Shetland Islands, Scotland
+summary: A small, bright herding dog that looks like a miniature Rough Collie.
+traits:
+  - text: Long, harsh outer coat with a full mane and frill around the neck.
+    source: akc
+  - text: Long, wedge-shaped head with small ears that are three-quarters erect, with tips folding forward.
+    source: akc
+  - text: Small size - roughly 13 to 16 inches at the shoulder.
+    source: akc
+  - text: Colors include sable, black and blue merle, usually with white markings.
+    source: akc
+lookAlikes: [ rough-collie ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Shetland Sheepdog"
+    url: https://www.akc.org/dog-breeds/shetland-sheepdog/
+images:
+  - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_15856.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_12087.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_1013.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_9093.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

@@ -1,0 +1,36 @@
+slug: siberian-husky
+name: Siberian Husky
+dogCeoPath: husky
+group: working
+size: medium
+origin: Siberia (Russia)
+summary: A fast, light sled dog famous for its striking facial mask and blue eyes.
+traits:
+  - text: Medium-sized and lightly built for speed - smaller and lighter than a Malamute.
+    source: akc
+  - text: Eyes may be blue, brown, or one of each.
+    source: akc
+  - text: Erect, triangular ears set close together high on the head.
+    source: akc
+  - text: Bushy tail carried in a "sickle" curve over the back when alert, but not tightly curled.
+    source: akc
+lookAlikes: [ alaskan-malamute, samoyed ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Siberian Husky"
+    url: https://www.akc.org/dog-breeds/siberian-husky/
+images:
+  - url: https://images.dog.ceo/breeds/husky/n02110185_8860.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/husky/n02110185_1439.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/husky/n02110185_3302.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/husky/n02110185_4522.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

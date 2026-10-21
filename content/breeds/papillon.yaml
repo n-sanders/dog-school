@@ -1,0 +1,36 @@
+slug: papillon
+name: Papillon
+dogCeoPath: papillon
+group: toy
+size: toy
+origin: France and Belgium
+summary: A dainty toy spaniel named for its butterfly-shaped ears ("papillon" is French for butterfly).
+traits:
+  - text: Large, fringed, erect ears that spread like the wings of a butterfly.
+    source: akc
+  - text: White coat with patches of color; a symmetrical colored face with a white blaze is preferred.
+    source: akc
+  - text: Long, silky, flowing coat with no undercoat.
+    source: akc
+  - text: Plumed tail carried arched over the back.
+    source: akc
+lookAlikes: [ chihuahua, pomeranian ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Papillon"
+    url: https://www.akc.org/dog-breeds/papillon/
+images:
+  - url: https://images.dog.ceo/breeds/papillon/n02086910_334.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/papillon/n02086910_3320.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/papillon/n02086910_2466.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/papillon/n02086910_2359.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

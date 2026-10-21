@@ -1,0 +1,36 @@
+slug: yorkshire-terrier
+name: Yorkshire Terrier
+dogCeoPath: terrier/yorkshire
+group: toy
+size: toy
+origin: England
+summary: A tiny, bold terrier with a long, silky blue and tan coat.
+traits:
+  - text: Steel-blue body coat with rich tan on the head, chest and legs.
+    source: akc
+  - text: Long, straight, glossy coat that can reach the floor; often trimmed short as a pet.
+    source: akc
+  - text: Very small - about 7 pounds.
+    source: akc
+  - text: Small, V-shaped erect ears, and hair on the head often tied up in a topknot.
+    source: akc
+lookAlikes: [ maltese, shih-tzu ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Yorkshire Terrier"
+    url: https://www.akc.org/dog-breeds/yorkshire-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_478.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_8535.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_1824.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_8580.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

@@ -1,0 +1,36 @@
+slug: standard-poodle
+name: Standard Poodle
+dogCeoPath: poodle/standard
+group: non-sporting
+size: large
+origin: Germany (standardized in France)
+summary: An elegant, highly intelligent water retriever, the largest of the three poodle sizes.
+traits:
+  - text: Dense, curly coat that keeps growing; often clipped into distinctive styles.
+    source: akc
+  - text: Long, straight, fine muzzle and long, flat ears close to the head.
+    source: akc
+  - text: Proud, square build with a level back and high head carriage.
+    source: akc
+  - text: Solid colors such as white, black, apricot, gray or brown.
+    source: akc
+lookAlikes: []
+sources:
+  - id: akc
+    title: "American Kennel Club: Poodle (Standard)"
+    url: https://www.akc.org/dog-breeds/poodle-standard/
+images:
+  - url: https://images.dog.ceo/breeds/poodle-standard/n02113799_5157.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/poodle-standard/n02113799_4946.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/poodle-standard/n02113799_447.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/poodle-standard/n02113799_3978.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

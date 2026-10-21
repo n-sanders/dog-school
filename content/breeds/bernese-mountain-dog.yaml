@@ -1,0 +1,36 @@
+slug: bernese-mountain-dog
+name: Bernese Mountain Dog
+dogCeoPath: mountain/bernese
+group: working
+size: large
+origin: Switzerland
+summary: A big, gentle Swiss farm dog with a striking tricolor coat.
+traits:
+  - text: Tricolor coat - jet black body with rust markings and white on the chest and face.
+    source: akc
+  - text: Rust markings over each eye, on the cheeks and on the legs.
+    source: akc
+  - text: Long, silky, slightly wavy coat (longer than other Swiss mountain dogs).
+    source: akc
+  - text: Large, sturdy body with a bushy tail carried low.
+    source: akc
+lookAlikes: [ saint-bernard ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Bernese Mountain Dog"
+    url: https://www.akc.org/dog-breeds/bernese-mountain-dog/
+images:
+  - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_4515.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_2664.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_6200.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/mountain-bernese/n02107683_5821.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

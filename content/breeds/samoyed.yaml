@@ -1,0 +1,36 @@
+slug: samoyed
+name: Samoyed
+dogCeoPath: samoyed
+group: working
+size: medium
+origin: Siberia (Russia)
+summary: A friendly, fluffy white spitz known for its "Sammy smile".
+traits:
+  - text: Thick, stand-off coat in white, cream or biscuit.
+    source: akc
+  - text: Upturned corners of the mouth form a famous "smile".
+    source: akc
+  - text: Wedge-shaped head with thick, erect, triangular ears.
+    source: akc
+  - text: Profusely furred tail carried over the back.
+    source: akc
+lookAlikes: [ siberian-husky, pomeranian ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Samoyed"
+    url: https://www.akc.org/dog-breeds/samoyed/
+images:
+  - url: https://images.dog.ceo/breeds/samoyed/n02111889_10324.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/samoyed/n02111889_6376.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/samoyed/n02111889_4679.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/samoyed/n02111889_1714.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

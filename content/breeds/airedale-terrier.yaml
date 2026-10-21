@@ -1,0 +1,36 @@
+slug: airedale-terrier
+name: Airedale Terrier
+dogCeoPath: airedale
+group: terrier
+size: large
+origin: England
+summary: The "King of Terriers" - the largest of all terrier breeds.
+traits:
+  - text: Tan dog with a black or grizzle "saddle" covering the back.
+    source: akc
+  - text: Hard, dense, wiry coat.
+    source: akc
+  - text: Long, flat head with a beard and small, folded V-shaped ears.
+    source: akc
+  - text: Tall, square, long-legged build - much bigger than other terriers.
+    source: akc
+lookAlikes: []
+sources:
+  - id: akc
+    title: "American Kennel Club: Airedale Terrier"
+    url: https://www.akc.org/dog-breeds/airedale-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/airedale/n02096051_3750.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/airedale/n02096051_1723.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/airedale/n02096051_8103.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/airedale/n02096051_2333.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

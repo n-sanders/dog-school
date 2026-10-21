@@ -1,0 +1,62 @@
+---
+id: herding-03-corgis-and-aussies
+title: Corgis and Australian Shepherds
+unit: herding
+summary: Two kinds of corgi, told apart by the tail, plus the colorful Australian Shepherd.
+prerequisites: [herding-02-collies]
+objectives:
+  - Tell a Pembroke Welsh Corgi from a Cardigan Welsh Corgi by the tail
+  - Identify an Australian Shepherd by its merle coat and eye color
+  - Tell an Australian Shepherd from a Border Collie
+breeds: [pembroke-welsh-corgi, cardigan-welsh-corgi, australian-shepherd]
+compare:
+  - [pembroke-welsh-corgi, cardigan-welsh-corgi]
+  - [australian-shepherd, border-collie]
+quiz:
+  - type: identify
+    breed: pembroke-welsh-corgi
+  - type: identify
+    breed: cardigan-welsh-corgi
+  - type: identify
+    breed: australian-shepherd
+  - type: find
+    breed: australian-shepherd
+  - type: question
+    prompt: Which corgi has a long, fox-like brush tail?
+    choices: [Pembroke Welsh Corgi, Cardigan Welsh Corgi]
+    answer: Cardigan Welsh Corgi
+    explanation: Pembrokes have a naturally short or docked tail.
+  - type: question
+    prompt: A herding dog with a blue merle coat and one blue eye is most likely a...
+    choices: [Australian Shepherd, Belgian Malinois, Rough Collie, German Shepherd Dog]
+    answer: Australian Shepherd
+---
+
+## The corgis
+
+Both corgis come from Wales and were bred to herd cattle by nipping at their
+heels. Their very short legs let them duck under kicks.
+
+| Feature | Pembroke Welsh Corgi | Cardigan Welsh Corgi |
+| --- | --- | --- |
+| **Tail** | Short or docked | Long, fox-like brush tail |
+| **Ears** | Erect, slightly pointed | Large, rounded, erect |
+| **Colors** | Red, sable, fawn, black and tan | Wider range, including blue merle and brindle |
+| **Build** | Long and low | Long and low, heavier-boned |
+
+**The key clue is the tail.** No tail (or a tiny one): Pembroke. Long, bushy tail:
+Cardigan.
+
+## Australian Shepherd
+
+Despite the name, the "Aussie" was developed on ranches in the **United States**.
+
+- **Color:** often **merle** - a marbled pattern of blue-gray or red - with copper
+  and white trim.
+- **Eyes:** brown, blue, amber, or **one of each**.
+- **Tail:** often naturally short or docked.
+
+## Aussie or Border Collie?
+
+Both are medium-sized, clever herders. Border Collies are most often black and
+white with a long tail. Aussies are often merle and frequently have a short tail.

@@ -1,0 +1,36 @@
+slug: german-shepherd
+name: German Shepherd Dog
+dogCeoPath: german/shepherd
+group: herding
+size: large
+origin: Germany
+summary: A confident, versatile working dog used for herding, police and service work.
+traits:
+  - text: Body longer than it is tall, with a back that slopes down toward the hindquarters.
+    source: akc
+  - text: Medium-length double coat, most often black and tan or black and red with a dark "saddle".
+    source: akc
+  - text: Large, pointed ears that stand erect, and a long, wedge-shaped muzzle.
+    source: akc
+  - text: Bushy tail that hangs in a slight curve.
+    source: akc
+lookAlikes: [ belgian-malinois ]
+sources:
+  - id: akc
+    title: "American Kennel Club: German Shepherd Dog"
+    url: https://www.akc.org/dog-breeds/german-shepherd-dog/
+images:
+  - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_855.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_3260.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_13123.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/german-shepherd/n02106662_9292.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

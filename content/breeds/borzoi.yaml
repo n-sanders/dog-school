@@ -1,0 +1,36 @@
+slug: borzoi
+name: Borzoi
+dogCeoPath: borzoi
+group: hound
+size: giant
+origin: Russia
+summary: A tall, elegant Russian sighthound once used to hunt wolves.
+traits:
+  - text: Long, narrow, slightly domed head with a long Roman-nosed muzzle.
+    source: akc
+  - text: Silky coat that may be flat, wavy or curly, with feathering on the legs and tail.
+    source: akc
+  - text: Tall, graceful build with an arched back and deep, narrow chest.
+    source: akc
+  - text: Usually white or cream with colored patches, though any color is allowed.
+    source: akc
+lookAlikes: [ afghan-hound ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Borzoi"
+    url: https://www.akc.org/dog-breeds/borzoi/
+images:
+  - url: https://images.dog.ceo/breeds/borzoi/n02090622_6293.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/borzoi/n02090622_6172.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/borzoi/n02090622_3210.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/borzoi/n02090622_7732.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

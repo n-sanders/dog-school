@@ -1,0 +1,36 @@
+slug: beagle
+name: Beagle
+dogCeoPath: beagle
+group: hound
+size: small
+origin: England
+summary: A merry, compact scenthound bred to hunt rabbits in packs.
+traits:
+  - text: Short, hard coat, most often tricolor (black saddle, tan and white).
+    source: akc
+  - text: Long, wide ears that hang down close to the cheeks.
+    source: akc
+  - text: Tail carried up (gaily) with a white tip, so hunters can see it in tall grass.
+    source: akc
+  - text: Large brown or hazel eyes with a gentle, pleading expression.
+    source: akc
+lookAlikes: [ basset-hound ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Beagle"
+    url: https://www.akc.org/dog-breeds/beagle/
+images:
+  - url: https://images.dog.ceo/breeds/beagle/n02088364_14690.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/beagle/n02088364_17553.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/beagle/n02088364_13236.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/beagle/n02088364_13428.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

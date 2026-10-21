@@ -1,0 +1,36 @@
+slug: australian-shepherd
+name: Australian Shepherd
+dogCeoPath: australian/shepherd
+group: herding
+size: medium
+origin: United States (despite the name)
+summary: An energetic ranch dog known for its striking merle coat and often blue or odd-colored eyes.
+traits:
+  - text: Coat colors include blue merle, red merle, black and red, often with copper and white trim.
+    source: akc
+  - text: Eyes may be brown, blue, amber, or a mix, including one of each color.
+    source: akc
+  - text: Medium-length coat with a moderate mane, and a tail that is often naturally short or docked.
+    source: akc
+  - text: Triangular ears that break forward or to the side.
+    source: akc
+lookAlikes: [ border-collie ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Australian Shepherd"
+    url: https://www.akc.org/dog-breeds/australian-shepherd/
+images:
+  - url: https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/australian-shepherd/pepper2.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/australian-shepherd/forest.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

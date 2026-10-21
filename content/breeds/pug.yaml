@@ -1,0 +1,36 @@
+slug: pug
+name: Pug
+dogCeoPath: pug
+group: toy
+size: small
+origin: China
+summary: A charming, square little dog with a wrinkled, flat face.
+traits:
+  - text: Large, round head with a very short, flat muzzle and deep wrinkles.
+    source: akc
+  - text: Fawn or black coat; fawn pugs have a black mask and black ears.
+    source: akc
+  - text: Tail curled tightly over the hip - ideally a double curl.
+    source: akc
+  - text: Compact, square, muscular body ("multum in parvo" - a lot of dog in a small space).
+    source: akc
+lookAlikes: [ french-bulldog ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Pug"
+    url: https://www.akc.org/dog-breeds/pug/
+images:
+  - url: https://images.dog.ceo/breeds/pug/n02110958_7698.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pug/n02110958_15120.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pug/n02110958_16426.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pug/n02110958_4189.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

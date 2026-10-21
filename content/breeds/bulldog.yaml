@@ -1,0 +1,36 @@
+slug: bulldog
+name: Bulldog (English Bulldog)
+dogCeoPath: bulldog/english
+group: non-sporting
+size: medium
+origin: England
+summary: A calm, courageous dog with a low, wide body and a famously wrinkled face.
+traits:
+  - text: Massive, short-faced head with heavy wrinkles and a pushed-in nose.
+    source: akc
+  - text: Undershot jaw with a loose, hanging upper lip (chops).
+    source: akc
+  - text: Low-slung, wide, heavy body with broad shoulders and a rolling gait.
+    source: akc
+  - text: Small, thin "rose" ears that fold back.
+    source: akc
+lookAlikes: [ french-bulldog ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Bulldog"
+    url: https://www.akc.org/dog-breeds/bulldog/
+images:
+  - url: https://images.dog.ceo/breeds/bulldog-english/mami.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-english/jager-2.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-english/bunz.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-english/murphy.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

@@ -1,0 +1,36 @@
+slug: pembroke-welsh-corgi
+name: Pembroke Welsh Corgi
+dogCeoPath: pembroke
+group: herding
+size: small
+origin: Wales
+summary: A short-legged cattle herder with a fox-like face.
+traits:
+  - text: Very short legs on a long, sturdy body.
+    source: akc
+  - text: Tail usually docked or naturally short - no long tail.
+    source: akc
+  - text: Fox-like head with erect, slightly pointed ears.
+    source: akc
+  - text: Colors are red, sable, fawn, or black and tan, often with white markings.
+    source: akc
+lookAlikes: [ cardigan-welsh-corgi ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Pembroke Welsh Corgi"
+    url: https://www.akc.org/dog-breeds/pembroke-welsh-corgi/
+images:
+  - url: https://images.dog.ceo/breeds/pembroke/n02113023_1258.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pembroke/n02113023_3337.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pembroke/n02113023_5006.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pembroke/n02113023_894.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

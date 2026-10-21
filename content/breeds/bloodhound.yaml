@@ -1,0 +1,36 @@
+slug: bloodhound
+name: Bloodhound
+dogCeoPath: hound/blood
+group: hound
+size: large
+origin: Belgium and France
+summary: A large tracking hound with the most powerful nose of any breed.
+traits:
+  - text: Loose, thin skin that falls in deep folds around the head and neck.
+    source: akc
+  - text: Long, thin ears that hang in folds.
+    source: akc
+  - text: Tall, long-legged build - much taller than a Basset Hound.
+    source: akc
+  - text: Colors are black and tan, liver and tan, or red.
+    source: akc
+lookAlikes: [ basset-hound ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Bloodhound"
+    url: https://www.akc.org/dog-breeds/bloodhound/
+images:
+  - url: https://images.dog.ceo/breeds/hound-blood/n02088466_9616.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-blood/n02088466_4054.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-blood/n02088466_8105.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-blood/n02088466_6775.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

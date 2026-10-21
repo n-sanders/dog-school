@@ -1,0 +1,36 @@
+slug: great-dane
+name: Great Dane
+dogCeoPath: dane/great
+group: working
+size: giant
+origin: Germany
+summary: The "Apollo of Dogs" - one of the tallest breeds, elegant and gentle.
+traits:
+  - text: Enormous height - males are often 30 inches or more at the shoulder.
+    source: akc
+  - text: Long, rectangular head with a deep, square muzzle.
+    source: akc
+  - text: Short, sleek coat in colors such as fawn, brindle, black, blue, harlequin and mantle.
+    source: akc
+  - text: Ears may be natural (folded) or cropped (erect).
+    source: akc
+lookAlikes: []
+sources:
+  - id: akc
+    title: "American Kennel Club: Great Dane"
+    url: https://www.akc.org/dog-breeds/great-dane/
+images:
+  - url: https://images.dog.ceo/breeds/dane-great/n02109047_18490.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/dane-great/n02109047_5618.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/dane-great/n02109047_5894.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/dane-great/n02109047_1284.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

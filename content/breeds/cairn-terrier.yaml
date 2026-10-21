@@ -1,0 +1,36 @@
+slug: cairn-terrier
+name: Cairn Terrier
+dogCeoPath: terrier/cairn
+group: terrier
+size: small
+origin: Scotland
+summary: A small, shaggy working terrier - Toto in "The Wizard of Oz" was a Cairn.
+traits:
+  - text: Shaggy, weather-resistant coat in any color except white - often wheaten, red, gray or brindle.
+    source: akc
+  - text: Broad head with a "foxy" expression and small, pointed, erect ears.
+    source: akc
+  - text: Darker ears and muzzle are common.
+    source: akc
+  - text: Short-legged but not as low or long as a Scottie.
+    source: akc
+lookAlikes: [ west-highland-white-terrier, scottish-terrier ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Cairn Terrier"
+    url: https://www.akc.org/dog-breeds/cairn-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_1390.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_10959.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_2854.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-cairn/n02096177_4082.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

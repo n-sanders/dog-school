@@ -1,0 +1,36 @@
+slug: maltese
+name: Maltese
+dogCeoPath: maltese
+group: toy
+size: toy
+origin: Malta
+summary: An ancient toy breed with a long, silky, pure-white coat.
+traits:
+  - text: Pure white, long, straight, silky coat with no undercoat.
+    source: akc
+  - text: Black nose and dark, round eyes that stand out against the white hair.
+    source: akc
+  - text: Drop ears covered in long hair that blends into the coat.
+    source: akc
+  - text: Very small - under 7 pounds - with a tail carried over the back.
+    source: akc
+lookAlikes: [ west-highland-white-terrier, shih-tzu ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Maltese"
+    url: https://www.akc.org/dog-breeds/maltese/
+images:
+  - url: https://images.dog.ceo/breeds/maltese/n02085936_6569.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/maltese/n02085936_2203.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/maltese/n02085936_804.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/maltese/n02085936_2889.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

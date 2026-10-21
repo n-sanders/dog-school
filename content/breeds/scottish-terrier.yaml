@@ -1,0 +1,36 @@
+slug: scottish-terrier
+name: Scottish Terrier
+dogCeoPath: terrier/scottish
+group: terrier
+size: small
+origin: Scotland
+summary: A dignified, short-legged terrier with a long beard and eyebrows.
+traits:
+  - text: Long head with a prominent beard and bushy eyebrows.
+    source: akc
+  - text: Short legs and a sturdy, low body, with longer hair forming a "skirt" underneath.
+    source: akc
+  - text: Usually black, but also wheaten or brindle.
+    source: akc
+  - text: Small, pointed, erect ears and a tail carried upright.
+    source: akc
+lookAlikes: [ cairn-terrier ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Scottish Terrier"
+    url: https://www.akc.org/dog-breeds/scottish-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_6980.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_7639.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_231.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-scottish/n02097298_4882.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

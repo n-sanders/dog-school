@@ -1,0 +1,36 @@
+slug: labrador-retriever
+name: Labrador Retriever
+dogCeoPath: labrador
+group: sporting
+size: large
+origin: Newfoundland, Canada (developed in Britain)
+summary: A friendly, sturdy retriever and one of the most popular family dogs in the world.
+traits:
+  - text: Short, dense, water-resistant coat that lies flat; no feathering on the legs or tail.
+    source: akc
+  - text: Solid colors only - black, yellow or chocolate.
+    source: akc
+  - text: Thick, tapering "otter tail" that is round and heavy at the base.
+    source: akc
+  - text: Broad head with a clean-cut skull, medium-length muzzle and kind, friendly eyes.
+    source: akc
+lookAlikes: [ golden-retriever ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Labrador Retriever"
+    url: https://www.akc.org/dog-breeds/labrador-retriever/
+images:
+  - url: https://images.dog.ceo/breeds/labrador/n02099712_6619.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/labrador/n02099712_1414.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/labrador/n02099712_3769.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/labrador/n02099712_9373.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

@@ -1,0 +1,36 @@
+slug: whippet
+name: Whippet
+dogCeoPath: whippet
+group: hound
+size: medium
+origin: England
+summary: A medium-sized sighthound that looks like a small Greyhound and is very fast.
+traits:
+  - text: Slim, athletic build with a deep chest and a tightly tucked-up waist.
+    source: akc
+  - text: Gently arched back over the loin.
+    source: akc
+  - text: Short, smooth, close coat in almost any color or pattern.
+    source: akc
+  - text: Medium size - roughly 18 to 22 inches at the shoulder.
+    source: akc
+lookAlikes: [ italian-greyhound ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Whippet"
+    url: https://www.akc.org/dog-breeds/whippet/
+images:
+  - url: https://images.dog.ceo/breeds/whippet/n02091134_7748.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/whippet/n02091134_15938.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/whippet/n02091134_14374.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/whippet/n02091134_18472.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

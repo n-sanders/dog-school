@@ -1,0 +1,36 @@
+slug: pomeranian
+name: Pomeranian
+dogCeoPath: pomeranian
+group: toy
+size: toy
+origin: Pomerania (Germany and Poland)
+summary: A tiny spitz dog that looks like a fluffy ball with a fox-like face.
+traits:
+  - text: Thick, puffy double coat that stands out from the body, with a big ruff around the neck.
+    source: akc
+  - text: Fox-like face with a short muzzle and small, erect ears.
+    source: akc
+  - text: Heavily plumed tail carried flat over the back.
+    source: akc
+  - text: Most often orange or red, but many colors are possible.
+    source: akc
+lookAlikes: [ papillon, samoyed ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Pomeranian"
+    url: https://www.akc.org/dog-breeds/pomeranian/
+images:
+  - url: https://images.dog.ceo/breeds/pomeranian/n02112018_7802.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pomeranian/n02112018_4813.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pomeranian/n02112018_4206.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/pomeranian/n02112018_13636.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

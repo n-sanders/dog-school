@@ -1,0 +1,36 @@
+slug: belgian-malinois
+name: Belgian Malinois
+dogCeoPath: malinois
+group: herding
+size: large
+origin: Belgium
+summary: A lean, intense herding dog often used by military and police units.
+traits:
+  - text: Short, straight coat, fawn to mahogany with black tips on the hairs.
+    source: akc
+  - text: Black "mask" on the face and black ears.
+    source: akc
+  - text: Square, light-boned build with a level back (not sloping like a German Shepherd).
+    source: akc
+  - text: Triangular ears that stand stiffly erect.
+    source: akc
+lookAlikes: [ german-shepherd ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Belgian Malinois"
+    url: https://www.akc.org/dog-breeds/belgian-malinois/
+images:
+  - url: https://images.dog.ceo/breeds/malinois/n02105162_5759.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malinois/n02105162_10488.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malinois/n02105162_6513.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malinois/n02105162_4200.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

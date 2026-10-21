@@ -1,0 +1,36 @@
+slug: alaskan-malamute
+name: Alaskan Malamute
+dogCeoPath: malamute
+group: working
+size: large
+origin: Alaska (United States)
+summary: A powerful, heavy-boned freight sled dog built for strength rather than speed.
+traits:
+  - text: Large and heavy-boned - noticeably bigger and bulkier than a Siberian Husky.
+    source: akc
+  - text: Eyes are always brown; blue eyes are a fault in this breed.
+    source: akc
+  - text: Ears are small for the size of the head and set wide apart.
+    source: akc
+  - text: Plumed tail carried over the back "like a waving plume".
+    source: akc
+lookAlikes: [ siberian-husky ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Alaskan Malamute"
+    url: https://www.akc.org/dog-breeds/alaskan-malamute/
+images:
+  - url: https://images.dog.ceo/breeds/malamute/n02110063_16966.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malamute/n02110063_14381.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malamute/n02110063_17766.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/malamute/n02110063_7325.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

@@ -1,0 +1,36 @@
+slug: afghan-hound
+name: Afghan Hound
+dogCeoPath: hound/afghan
+group: hound
+size: large
+origin: Afghanistan
+summary: A dignified sighthound with a long, silky coat and an aristocratic look.
+traits:
+  - text: Long, fine, silky coat covering the body, with a "topknot" of long hair on the head.
+    source: akc
+  - text: Short-haired "saddle" along the back in mature dogs.
+    source: akc
+  - text: Long, refined head and prominent hip bones.
+    source: akc
+  - text: Tail with a ring or curl at the end.
+    source: akc
+lookAlikes: [ borzoi ]
+sources:
+  - id: akc
+    title: "American Kennel Club: Afghan Hound"
+    url: https://www.akc.org/dog-breeds/afghan-hound/
+images:
+  - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_6485.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_5080.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_522.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/hound-afghan/n02088094_2062.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

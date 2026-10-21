@@ -1,0 +1,36 @@
+slug: russell-terrier
+name: Russell Terrier (Jack Russell)
+dogCeoPath: terrier/russell
+group: terrier
+size: small
+origin: England (refined in Australia)
+summary: A small, fearless, energetic terrier bred to chase foxes out of their dens.
+traits:
+  - text: Mostly white coat with tan or black markings, often on the head.
+    source: akc
+  - text: Coat may be smooth, broken (slightly wiry) or rough.
+    source: akc
+  - text: Small, V-shaped ears that fold forward.
+    source: akc
+  - text: Compact body that is slightly longer than tall, built for squeezing into burrows.
+    source: akc
+lookAlikes: []
+sources:
+  - id: akc
+    title: "American Kennel Club: Russell Terrier"
+    url: https://www.akc.org/dog-breeds/russell-terrier/
+images:
+  - url: https://images.dog.ceo/breeds/terrier-russell/img_7751.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-russell/jack-koda-2.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-russell/img_7468.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/terrier-russell/jack1.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""

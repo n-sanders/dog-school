@@ -1,0 +1,36 @@
+slug: french-bulldog
+name: French Bulldog
+dogCeoPath: bulldog/french
+group: non-sporting
+size: small
+origin: France
+summary: A small, playful bulldog best known for its upright "bat ears".
+traits:
+  - text: Large, upright "bat ears" that are wide at the base and rounded at the top.
+    source: akc
+  - text: Square, flat-topped head with a short, pushed-in muzzle.
+    source: akc
+  - text: Compact, muscular body that is much smaller and lighter than the English Bulldog.
+    source: akc
+  - text: Short, smooth coat; common colors include brindle, fawn and cream.
+    source: akc
+lookAlikes: [ bulldog, pug ]
+sources:
+  - id: akc
+    title: "American Kennel Club: French Bulldog"
+    url: https://www.akc.org/dog-breeds/french-bulldog/
+images:
+  - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_5367.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_1513.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_311.jpg
+    note: ""
+    reviewed: false
+  - url: https://images.dog.ceo/breeds/bulldog-french/n02108915_2514.jpg
+    note: ""
+    reviewed: false
+reviewedBy: ""
+reviewedOn: ""
