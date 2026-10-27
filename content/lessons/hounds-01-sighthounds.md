@@ -53,6 +53,8 @@ reviewedOn: "2026-10-21"
 **Sighthounds** spot prey with their eyes and chase it down at high speed. They
 share a recognizable shape:
 
+![Borzoi side view: deep chest, narrow tucked-up waist, long legs, long narrow head and a gently arched back](https://images.dog.ceo/breeds/borzoi/n02090622_3210.jpg)
+
 - A **deep chest** (room for big lungs and heart).
 - A **narrow, tucked-up waist**.
 - **Long legs** and a long, narrow head.
@@ -60,11 +62,15 @@ share a recognizable shape:
 
 ## Afghan Hound
 
+![Afghan Hound: long, silky coat that hangs down and covers the legs, with a topknot of long hair on the head](https://images.dog.ceo/breeds/hound-afghan/n02088094_2062.jpg)
+
 - **Coat:** long, fine and silky, with a **topknot** of long hair on the head.
 - **Back:** adults have a short-haired "saddle" along the back.
 - **Tail:** ends in a **ring or curl**.
 
 ## Borzoi
+
+![Borzoi: very tall, with a long narrow head, a slightly curved Roman nose, and a silky white coat with colored patches](https://images.dog.ceo/breeds/borzoi/n02090622_6172.jpg)
 
 - **Size:** very tall and elegant.
 - **Head:** long and narrow, with a slightly curved (Roman) nose.
@@ -77,6 +83,9 @@ and covers the legs completely, and it has a topknot and a curled tail tip.
 
 These two have the classic smooth-coated sighthound shape. The difference is
 **size**:
+
+![Whippet: a medium-sized, smooth-coated sighthound with a deep chest and tucked-up waist](https://images.dog.ceo/breeds/whippet/n02091134_9793.jpg)
+![Italian Greyhound: the same shape in a tiny, fine-boned toy-sized body](https://images.dog.ceo/breeds/greyhound-italian/n02091032_11088.jpg)
 
 - **Whippet:** medium - about 18 to 22 inches at the shoulder.
 - **Italian Greyhound:** tiny and fine-boned - about 13 to 15 inches. It is in

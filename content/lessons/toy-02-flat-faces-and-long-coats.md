@@ -44,6 +44,8 @@ reviewedOn: "2026-10-21"
 
 ## Pug
 
+![Pug: round head, a very short, flat muzzle with deep wrinkles, and a fawn coat with a black mask and black ears](https://images.dog.ceo/breeds/pug/n02110958_4189.jpg)
+
 - **Face:** round head, very short **flat muzzle** and deep **wrinkles**.
 - **Color:** fawn with a black mask and black ears, or all black.
 - **Tail:** curled tightly over the hip.
@@ -55,6 +57,8 @@ upright **bat ears** and a straight tail; the Pug has small folded ears and a
 
 ## Shih Tzu
 
+![Shih Tzu: a long, multi-colored coat with a white blaze, a short muzzle, and hair on the nose growing upward](https://images.dog.ceo/breeds/shihtzu/n02086240_5316.jpg)
+
 - **Coat:** long and flowing, in many colors - often with a white blaze and tail
   tip.
 - **Face:** short muzzle; the hair on the nose grows **upward**, like a
@@ -63,9 +67,14 @@ upright **bat ears** and a straight tail; the Pug has small folded ears and a
 
 ## Maltese
 
+![Maltese: pure white, with a long, straight, silky coat](https://images.dog.ceo/breeds/maltese/n02085936_2203.jpg)
+
 - **Color:** always **pure white**.
 - **Coat:** long, straight and silky, with no undercoat.
 - **Face:** black nose and dark eyes that stand out against the white hair.
 
 **Shih Tzu or Maltese?** A Maltese is always white with a finer, longer muzzle.
 A Shih Tzu is usually multi-colored and has a shorter, flatter face.
+
+![Shih Tzu: mixed colors and a short, flat face](https://images.dog.ceo/breeds/shihtzu/n02086240_3186.jpg)
+![Maltese: all white, with a black nose and dark eyes that stand out](https://images.dog.ceo/breeds/maltese/n02085936_6569.jpg)

@@ -30,6 +30,7 @@ export function QuizQuestion({ question, onAnswered, onNext, onImageError, nextL
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLSelectElement) return;
+      if (document.querySelector("dialog[open]")) return;
       const n = Number(e.key);
       if (!answered && n >= 1 && n <= keys.length) choose(keys[n - 1]);
       else if (answered && e.key === "Enter" && !(e.target instanceof HTMLButtonElement)) onNext();
@@ -85,6 +86,7 @@ export function QuizQuestion({ question, onAnswered, onNext, onImageError, nextL
                   src={c.image}
                   alt={answered ? c.breed.name : `Photo ${i + 1}`}
                   hideSource
+                  zoomable={false}
                   onError={() => onImageError(c.image)}
                 />
                 <span className="photo-label">

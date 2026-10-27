@@ -44,6 +44,8 @@ because they are.
 
 ## West Highland White Terrier (Westie)
 
+![West Highland White Terrier: pure white, with a round, flower-shaped face and small, pointed, erect ears](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_437.jpg)
+
 - **Color:** always **pure white**.
 - **Face:** hair trimmed into a round, flower-like shape.
 - **Ears:** small, pointed and erect.
@@ -51,11 +53,15 @@ because they are.
 
 ## Scottish Terrier (Scottie)
 
+![Scottish Terrier: black, with a long head, a prominent beard and bushy eyebrows](https://images.dog.ceo/breeds/terrier-scottish/n02097298_6980.jpg)
+
 - **Head:** long, with a prominent **beard** and bushy **eyebrows**.
 - **Body:** very low, with longer hair forming a "skirt".
 - **Color:** usually **black**, but also wheaten or brindle.
 
 ## Cairn Terrier
+
+![Cairn Terrier: shaggy wheaten coat and a foxy face, with darker ears and muzzle](https://images.dog.ceo/breeds/terrier-cairn/n02096177_2854.jpg)
 
 - **Coat:** **shaggy** and weather-resistant, in any color **except white** -
   often wheaten, red, gray or brindle.
@@ -63,6 +69,8 @@ because they are.
 - **Legs:** short, but the Cairn is less low and long than a Scottie.
 
 ## Telling them apart
+
+![A Westie (left, all white) next to a Scottie (right, black with a long, bearded head)](https://images.dog.ceo/breeds/terrier-scottish/n02097298_7639.jpg)
 
 - **All white:** Westie.
 - **Long head, beard, very low body, often black:** Scottie.

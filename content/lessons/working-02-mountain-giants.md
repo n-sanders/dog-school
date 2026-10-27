@@ -36,12 +36,16 @@ reviewedOn: "2026-10-21"
 
 ## Bernese Mountain Dog
 
+![Bernese Mountain Dog: tricolor - jet black body, rust on the cheeks and legs, and white on the chest and face](https://images.dog.ceo/breeds/mountain-bernese/n02107683_6200.jpg)
+
 - **Color:** **tricolor** - jet black body, **rust** markings over the eyes, on the
   cheeks and legs, and **white** on the chest and face.
 - **Coat:** long, silky and slightly wavy.
 - **Build:** large and sturdy, with a bushy tail carried low.
 
 ## Saint Bernard
+
+![Saint Bernard: a huge, massive head with a short, deep muzzle, a dark mask, and a red-and-white coat](https://images.dog.ceo/breeds/stbernard/n02109525_12875.jpg)
 
 - **Head:** **huge** and massive, with a short, deep muzzle and wrinkled brow.
 - **Color:** **red and white** (or brindle and white), often with a dark mask.
@@ -50,7 +54,12 @@ reviewedOn: "2026-10-21"
 **Bernese or Saint Bernard?** The Bernese is mainly **black**. The Saint Bernard is
 mainly **red/brown and white**, with a bigger, heavier head.
 
+![Bernese Mountain Dog: mostly black, with rust and white trim](https://images.dog.ceo/breeds/mountain-bernese/n02107683_2664.jpg)
+![Saint Bernard: mostly white with red-brown patches, and a heavier head](https://images.dog.ceo/breeds/stbernard/n02109525_14774.jpg)
+
 ## Great Dane
+
+![Great Dane (brindle): a long, rectangular head with a deep, square muzzle, and a short, sleek coat](https://images.dog.ceo/breeds/dane-great/n02109047_5618.jpg)
 
 - **Height:** one of the tallest breeds - males are often 30 inches or more at
   the shoulder.

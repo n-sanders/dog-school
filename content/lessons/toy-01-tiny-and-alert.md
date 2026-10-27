@@ -40,6 +40,8 @@ reviewedOn: "2026-10-21"
 
 ## Chihuahua
 
+![Chihuahua: a rounded "apple" head, a short, slightly pointed muzzle, very large erect ears and big, round eyes](https://images.dog.ceo/breeds/chihuahua/n02085620_1502.jpg)
+
 - **Size:** the smallest breed - no more than 6 pounds.
 - **Head:** a rounded **"apple" head** with a short, slightly pointed muzzle.
 - **Ears and eyes:** very large, erect ears and big, round eyes.
@@ -47,12 +49,16 @@ reviewedOn: "2026-10-21"
 
 ## Papillon
 
+![Papillon: large ears fringed with long hair that spread like butterfly wings, a white coat with colored patches, and a white blaze down the face](https://images.dog.ceo/breeds/papillon/n02086910_334.jpg)
+
 - **Ears:** large, **fringed** with long hair, spreading like **butterfly wings**.
 - **Color:** white with colored patches; the face is often colored with a white
   stripe (blaze) down the middle.
 - **Coat:** long and silky, with a plumed tail arched over the back.
 
 ## Pomeranian
+
+![Pomeranian: a thick, puffy orange coat standing out from the body, a fox-like face with small erect ears, and a plumed tail](https://images.dog.ceo/breeds/pomeranian/n02112018_4206.jpg)
 
 - **Coat:** thick and **puffy**, standing out from the body, with a big ruff
   around the neck.

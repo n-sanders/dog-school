@@ -82,6 +82,11 @@ function duplicates(values: string[]): string[] {
   return [...dupes];
 }
 
+/** Markdown images (`![alt](url)`) written in a lesson body. */
+export function bodyImages(body: string): { alt: string; url: string }[] {
+  return [...body.matchAll(/!\[([^\]]*)\]\(([^)\s]+)\)/g)].map((m) => ({ alt: m[1], url: m[2] }));
+}
+
 /** Dog CEO stores `breed/sub` images under `/breeds/breed-sub/`. */
 export function imageFolderFor(dogCeoPath: string): string {
   return `https://images.dog.ceo/breeds/${dogCeoPath.replace("/", "-")}/`;
@@ -151,6 +156,12 @@ export function checkIntegrity(
       const breed = breedBySlug.get(img.breed);
       if (breed && !img.url.startsWith(imageFolderFor(breed.dogCeoPath)))
         problems.push(`${where}: image ${img.url} is not in the '${img.breed}' folder`);
+    }
+    const pinned = new Set(lesson.breeds.flatMap((s) => breedBySlug.get(s)?.images.map((i) => i.url) ?? []));
+    for (const { alt, url } of bodyImages(lesson.body)) {
+      if (!alt.trim()) problems.push(`${where}: body image ${url} needs alt text (it is shown as the caption)`);
+      if (!pinned.has(url))
+        problems.push(`${where}: body image ${url} is not a pinned photo of a breed in this lesson's 'breeds'`);
     }
     lesson.quiz.forEach((item, i) => {
       if (item.type === "question") return;

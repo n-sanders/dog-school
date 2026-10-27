@@ -53,10 +53,15 @@ heels. Their very short legs let them duck under kicks.
 | **Colors** | Red, sable, fawn, black and tan | Wider range, including blue merle and brindle |
 | **Build** | Long and low | Long and low, heavier-boned |
 
+![Pembroke Welsh Corgi from behind: no tail, just a rounded rump, with erect pointed ears](https://images.dog.ceo/breeds/pembroke/n02113023_14516.jpg)
+![Cardigan Welsh Corgi: a long, low brindle-and-white body ending in a long tail](https://images.dog.ceo/breeds/corgi-cardigan/n02113186_9579.jpg)
+
 **The key clue is the tail.** No tail (or a tiny one): Pembroke. Long, bushy tail:
 Cardigan.
 
 ## Australian Shepherd
+
+![Australian Shepherd: blue merle coat - marbled blue-gray - with copper and white trim](https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg)
 
 Despite the name, the "Aussie" was developed on ranches in the **United States**.
 

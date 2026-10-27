@@ -58,6 +58,17 @@ describe("integrity checks", () => {
     expect(problems.join("\n")).toMatch(/is not under https:\/\/images.dog.ceo\/breeds\/pug\//);
   });
 
+  it("checks photos written in a lesson body", () => {
+    const lesson = lessons.find((l) => l.breeds.includes("pug"))!;
+    const pinned = content.breeds.get("pug")!.images[0].url;
+    const withBody = (body: string) =>
+      checkIntegrity(curriculum, breeds, lessons.map((l) => (l.id === lesson.id ? { ...l, body } : l))).join("\n");
+
+    expect(withBody(`## Pug\n\n![Pug: wrinkled face](${pinned})\n`)).toBe("");
+    expect(withBody(`![Pug](https://images.dog.ceo/breeds/pug/not-pinned.jpg)`)).toMatch(/is not a pinned photo/);
+    expect(withBody(`![](${pinned})`)).toMatch(/needs alt text/);
+  });
+
   it("catches traits that cite a missing source", () => {
     const pug = content.breeds.get("pug")!;
     const wrong: Breed = { ...pug, traits: [...pug.traits, { text: "Made up", source: "nowhere" }] };

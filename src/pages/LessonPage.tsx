@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useParams } from "react-router";
-import Markdown from "react-markdown";
+import Markdown, { type Components } from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { content, getBreed, getLesson } from "../content/loader";
 import { useProgress } from "../hooks/useProgress";
@@ -13,6 +13,19 @@ import { StatusBadge } from "../components/StatusBadge";
 import type { Lesson } from "../content/schema";
 import { lessonStatus } from "../lib/progress";
 import { NotFoundPage } from "./NotFoundPage";
+
+/** Lesson photos are written as Markdown images; the alt text is also the visible caption. */
+const markdownComponents: Components = {
+  img: ({ src, alt }) => (typeof src === "string" ? <DogImage src={src} alt={alt ?? ""} caption={alt} /> : null),
+  // A paragraph holding only images becomes a row of figures, since <figure> cannot sit inside <p>.
+  p: ({ node, children }) => {
+    const kids = node?.children ?? [];
+    const imagesOnly =
+      kids.some((c) => c.type === "element" && c.tagName === "img") &&
+      kids.every((c) => (c.type === "element" && c.tagName === "img") || (c.type === "text" && !c.value.trim()));
+    return imagesOnly ? <div className="lesson-figures">{children}</div> : <p>{children}</p>;
+  },
+};
 
 export function LessonPage() {
   const { lessonId = "" } = useParams();
@@ -76,7 +89,9 @@ function LessonView({ lesson }: { lesson: Lesson }) {
       </section>
 
       <section className="card prose">
-        <Markdown remarkPlugins={[remarkGfm]}>{lesson.body}</Markdown>
+        <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+          {lesson.body}
+        </Markdown>
       </section>
 
       {lesson.images.length > 0 && (
@@ -84,10 +99,12 @@ function LessonView({ lesson }: { lesson: Lesson }) {
           <h2>Example photos</h2>
           <div className="gallery captioned">
             {lesson.images.map((img) => (
-              <div key={img.url} className="captioned-image">
-                <DogImage src={img.url} alt={`${getBreed(img.breed)!.name}: ${img.caption}`} />
-                <p>{img.caption}</p>
-              </div>
+              <DogImage
+                key={img.url}
+                src={img.url}
+                alt={`${getBreed(img.breed)!.name}: ${img.caption}`}
+                caption={img.caption}
+              />
             ))}
           </div>
         </section>

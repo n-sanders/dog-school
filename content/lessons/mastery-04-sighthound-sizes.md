@@ -59,6 +59,9 @@ Both have the same smooth-coated sighthound shape.
 - **Italian Greyhound:** about 13 to 15 inches tall. Very fine, delicate bones -
   small enough to sit in a lap.
 
+![Whippet: a sturdier, more muscular medium-sized sighthound](https://images.dog.ceo/breeds/whippet/n02091134_9793.jpg)
+![Italian Greyhound: fine-boned and tiny - compare it with the ball on the floor for scale](https://images.dog.ceo/breeds/greyhound-italian/n02091032_6979.jpg)
+
 ## Rough Collie or Shetland Sheepdog?
 
 - **Rough Collie:** about 22 to 26 inches tall.
@@ -66,3 +69,6 @@ Both have the same smooth-coated sighthound shape.
 
 A Sheltie next to a person reaches roughly knee height; a Rough Collie reaches
 much higher.
+
+![Rough Collie: a large dog, about 22 to 26 inches tall](https://images.dog.ceo/breeds/rough-collie/collie-rough.jpg)
+![Shetland Sheepdog: nearly the same look in a small dog, about 13 to 16 inches tall](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_12087.jpg)

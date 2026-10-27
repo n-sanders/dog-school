@@ -46,11 +46,15 @@ dogs, so you will see them often.
 
 ## The Labrador Retriever
 
+![Labrador Retriever (chocolate): short, dense coat that lies flat, one solid color, and a thick otter tail](https://images.dog.ceo/breeds/labrador/n02099712_6619.jpg)
+
 - **Coat:** short, dense and flat, like a seal's.
 - **Color:** one solid color - black, yellow or chocolate.
 - **Tail:** a thick "otter tail" that is wide at the base.
 
 ## The Golden Retriever
+
+![Golden Retriever: medium-length gold coat, with feathering (long hair) on the backs of the legs, the chest and the tail](https://images.dog.ceo/breeds/retriever-golden/n02099601_176.jpg)
 
 - **Coat:** medium-length and may be wavy.
 - **Color:** always a shade of gold, from cream to deep red-gold.
@@ -61,3 +65,6 @@ dogs, so you will see them often.
 A yellow Labrador and a light Golden can be a similar color. **Do not rely on
 color.** Look at the coat length and the tail: a short coat with no feathering
 means Labrador; long, flowing feathers mean Golden.
+
+![Yellow Labrador: pale like a Golden, but the coat is short and smooth with no feathering](https://images.dog.ceo/breeds/labrador/n02099712_9373.jpg)
+![Golden Retriever: a similar color, but with longer hair and feathering on the chest and legs](https://images.dog.ceo/breeds/retriever-golden/n02099601_8181.jpg)

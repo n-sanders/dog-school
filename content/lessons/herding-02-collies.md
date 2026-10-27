@@ -40,6 +40,8 @@ are clever, quick and often have long, flowing coats.
 
 ## Border Collie
 
+![Border Collie: black and white, with a white stripe on the face and the intense, focused "herding eye" stare](https://images.dog.ceo/breeds/collie-border/n02106166_180.jpg)
+
 - **Color:** usually **black and white**, with white on the face, neck, legs and
   tail tip.
 - **Coat:** smooth (short) or rough (medium and feathered).
@@ -48,11 +50,15 @@ are clever, quick and often have long, flowing coats.
 
 ## Rough Collie
 
+![Rough Collie: very long coat with a big mane and frill around the neck, and a long, wedge-shaped head](https://images.dog.ceo/breeds/rough-collie/1dog-rough-collie-portrait.jpg)
+
 - **Size:** large - about 22 to 26 inches at the shoulder.
 - **Coat:** very long, with a big **mane** and frill around the neck.
 - **Head:** long and wedge-shaped, with semi-erect ears that tip forward.
 
 ## Shetland Sheepdog (Sheltie)
+
+![Shetland Sheepdog: the same long coat, full mane and wedge-shaped head as a Rough Collie, in a much smaller dog](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_12087.jpg)
 
 - **Size:** small - about 13 to 16 inches at the shoulder.
 - **Coat and head:** almost the same as the Rough Collie's - long coat, full mane,

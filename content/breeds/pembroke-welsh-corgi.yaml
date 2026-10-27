@@ -32,5 +32,8 @@ images:
   - url: https://images.dog.ceo/breeds/pembroke/n02113023_894.jpg
     note: ""
     reviewed: true
+  - url: https://images.dog.ceo/breeds/pembroke/n02113023_14516.jpg
+    note: "Rear view showing no tail; used in lesson text"
+    reviewed: true
 reviewedBy: content-audit
 reviewedOn: "2026-10-21"

@@ -41,7 +41,11 @@ reviewedOn: "2026-10-21"
 Many Arctic breeds share a **spitz** look: a thick double coat, a wedge-shaped
 head, **erect triangular ears**, and a bushy tail carried **over the back**.
 
+![Samoyed side view showing the spitz look: thick double coat, wedge-shaped head, erect triangular ears and a bushy tail curled over the back](https://images.dog.ceo/breeds/samoyed/n02111889_6376.jpg)
+
 ## Siberian Husky
+
+![Siberian Husky: a striking facial mask, with ears set close together high on the head](https://images.dog.ceo/breeds/husky/n02110185_8860.jpg)
 
 - **Build:** medium-sized and light - built for **speed**.
 - **Eyes:** blue, brown, or **one of each**.
@@ -50,12 +54,16 @@ head, **erect triangular ears**, and a bushy tail carried **over the back**.
 
 ## Alaskan Malamute
 
+![Alaskan Malamute: a broad head with brown eyes and ears that look small for the head and are set wide apart](https://images.dog.ceo/breeds/malamute/n02110063_14381.jpg)
+
 - **Build:** large and heavy-boned - built for **strength**, pulling heavy loads.
 - **Eyes:** always **brown**.
 - **Ears:** small for the head and set wide apart.
 - **Tail:** a plume waving over the back.
 
 ## Samoyed
+
+![Samoyed: white and very fluffy, with upturned mouth corners - the "Sammy smile"](https://images.dog.ceo/breeds/samoyed/n02111889_4679.jpg)
 
 - **Color:** **white**, cream or biscuit.
 - **Face:** upturned mouth corners - the famous **"Sammy smile"**.

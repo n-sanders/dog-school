@@ -45,11 +45,15 @@ around the face, which people think may help trap scent near the nose.
 
 ## Basset Hound
 
+![Basset Hound: very short legs under a long, heavy body, and extremely long ears](https://images.dog.ceo/breeds/hound-basset/n02088238_9015.jpg)
+
 - **Legs:** very short, on a long, heavy body.
 - **Ears:** extremely long and velvety.
 - **Face:** wrinkled brow and droopy lower eyelids, giving a sad look.
 
 ## Bloodhound
+
+![Bloodhound: loose skin falling in deep folds around the head, long ears and a black-and-tan coat](https://images.dog.ceo/breeds/hound-blood/n02088466_4054.jpg)
 
 - **Size:** large and **long-legged** - much taller than a Basset.
 - **Skin:** loose, falling in deep folds around the head and neck.
@@ -59,6 +63,8 @@ around the face, which people think may help trap scent near the nose.
 
 You met the Beagle in Unit 2. It is a scenthound too, but has a shorter, tidier
 face and normal-length legs.
+
+![Beagle: a neat tricolor face with drop ears, but far less loose skin than a Bloodhound or Basset](https://images.dog.ceo/breeds/beagle/n02088364_14690.jpg)
 
 ## Telling them apart
 

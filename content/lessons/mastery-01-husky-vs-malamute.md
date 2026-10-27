@@ -52,6 +52,9 @@ breeds that people confuse most often.
 | **Ears** | Set close together, high on the head | Small for the head, set wide apart |
 | **Tail** | Sickle curve, not tightly curled | Plume waving over the back |
 
+![Siberian Husky: ears set close together high on the head, and a finer, narrower face](https://images.dog.ceo/breeds/husky/n02110185_8860.jpg)
+![Alaskan Malamute: a heavier dog with brown eyes, wide-set ears and a plumed tail waving over the back](https://images.dog.ceo/breeds/malamute/n02110063_17766.jpg)
+
 ## Strategy
 
 1. **Check the eyes first.** Blue eyes rule out a Malamute.

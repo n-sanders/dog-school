@@ -34,6 +34,8 @@ reviewedOn: "2026-10-21"
 
 ## Airedale Terrier
 
+![Airedale Terrier: a tall, long-legged terrier, tan with a black saddle over the back, and a hard, wiry coat](https://images.dog.ceo/breeds/airedale/n02096051_1723.jpg)
+
 - **Size:** the **largest** terrier - tall, square and long-legged.
 - **Color:** tan, with a black or grizzle **saddle** over the back.
 - **Coat:** hard and wiry.
@@ -41,12 +43,16 @@ reviewedOn: "2026-10-21"
 
 ## Russell Terrier (Jack Russell)
 
+![Russell Terrier: small and compact, mostly white with tan markings on the head, and small V-shaped ears folded forward](https://images.dog.ceo/breeds/terrier-russell/jack-koda-2.jpg)
+
 - **Size:** small and compact, built for squeezing into fox dens.
 - **Color:** **mostly white** with tan or black markings, often on the head.
 - **Coat:** smooth, broken (slightly wiry) or rough.
 - **Ears:** small, V-shaped and folded forward.
 
 ## Yorkshire Terrier (Yorkie)
+
+![Yorkshire Terrier: long, silky coat - steel blue on the body, tan on the head and legs - with erect ears and a topknot tied up](https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_8535.jpg)
 
 - **Size:** tiny - about 7 pounds. The AKC places it in the **toy** group.
 - **Coat:** long, straight and silky, **steel blue** on the body and **tan** on

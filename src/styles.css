@@ -417,9 +417,18 @@ td {
 .gallery.captioned {
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
 }
-.captioned-image p {
-  margin: 0.25rem 0 0;
-  font-size: 0.95rem;
+.lesson-figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  max-width: 480px;
+  margin: 0.75rem 0 1rem;
+}
+.lesson-figures:has(> .dog-image + .dog-image) {
+  max-width: 760px;
+}
+.lesson-figures .dog-image img {
+  object-fit: contain;
 }
 
 .dog-image {
@@ -432,6 +441,66 @@ td {
   border-radius: 10px;
   overflow: hidden;
 }
+button.dog-image-frame {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  font: inherit;
+  cursor: zoom-in;
+}
+button.dog-image-frame:hover img {
+  filter: brightness(1.05);
+}
+.caption {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
+}
+
+.lightbox {
+  border: none;
+  border-radius: var(--radius);
+  padding: 1rem;
+  max-width: 94vw;
+  max-height: 94vh;
+  background: var(--surface);
+  box-shadow: 0 10px 40px rgb(0 0 0 / 0.35);
+}
+.lightbox::backdrop {
+  background: rgb(20 16 14 / 0.75);
+}
+dialog.lightbox img {
+  position: static;
+  inset: auto;
+  display: block;
+  width: min(90vw, 1100px);
+  height: 78vh;
+  object-fit: contain;
+  background: #1d1916;
+  border-radius: 8px;
+}
+.lightbox-caption {
+  margin: 0.6rem 0 0;
+  max-width: 70ch;
+}
+.lightbox-close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.4rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  border: none;
+  border-radius: 50%;
+  background: rgb(0 0 0 / 0.6);
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.lightbox-close:hover {
+  background: rgb(0 0 0 / 0.8);
+}
 .dog-image img {
   position: absolute;
   inset: 0;
@@ -442,6 +511,7 @@ td {
   display: block;
 }
 .credit {
+  display: block;
   font-size: 0.72rem;
   color: var(--muted);
   margin-top: 0.2rem;

@@ -48,6 +48,9 @@ Yellow Labradors and light Golden Retrievers can be exactly the same color, so
   Lab - none.
 - **Tail:** Lab - thick "otter tail". Golden - feathered and flowing.
 
+![Yellow Labrador: short, flat coat with no feathering](https://images.dog.ceo/breeds/labrador/n02099712_9373.jpg)
+![Golden Retriever: a similar color, but a longer coat with feathering on the legs, belly and tail](https://images.dog.ceo/breeds/retriever-golden/n02099601_176.jpg)
+
 ## Other golden dogs
 
 - **Rough Collie and Shetland Sheepdog** can be sable (golden-brown) too, but

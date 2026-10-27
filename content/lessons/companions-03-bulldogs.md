@@ -40,12 +40,16 @@ you know where to look.
 
 ## The Bulldog (English Bulldog)
 
+![Bulldog: massive, wrinkled head with hanging upper lips (chops), small folded rose ears and a low, wide body](https://images.dog.ceo/breeds/bulldog-english/murphy.jpg)
+
 - **Head:** massive, with heavy **wrinkles** and hanging upper lips ("chops").
 - **Jaw:** undershot - the lower jaw sticks out past the upper jaw.
 - **Body:** low, wide and heavy, with broad shoulders.
 - **Ears:** small and thin, folding back ("rose ears").
 
 ## The French Bulldog
+
+![French Bulldog: large, upright bat ears - wide at the base and rounded on top - and a square head with a short muzzle](https://images.dog.ceo/breeds/bulldog-french/n02108915_1513.jpg)
 
 - **Ears:** large, upright **bat ears** - wide at the base and rounded on top.
 - **Head:** square and flat on top, with a short muzzle.
@@ -55,3 +59,6 @@ you know where to look.
 
 **Look at the ears.** Big upright ears mean French Bulldog. Small folded ears
 on a heavy, wrinkled dog mean English Bulldog.
+
+![Bulldog: small ears folded back against a heavy, wrinkled head](https://images.dog.ceo/breeds/bulldog-english/mami.jpg)
+![French Bulldog: big ears standing straight up on a small, compact dog](https://images.dog.ceo/breeds/bulldog-french/n02108915_5367.jpg)

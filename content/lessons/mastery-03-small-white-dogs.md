@@ -49,11 +49,17 @@ reviewedOn: "2026-10-21"
 | **Tail** | Short "carrot" tail straight up | Carried over the back |
 | **Build** | Sturdy terrier | Very small and delicate |
 
+![West Highland White Terrier: harsh white coat, small erect ears and a short tail held straight up](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_1260.jpg)
+![Maltese: long, soft, silky coat, with the drop ears hidden in long hair](https://images.dog.ceo/breeds/maltese/n02085936_2203.jpg)
+
 ## Westie or Cairn?
 
 The Cairn Terrier is never white, but light wheaten Cairns can look pale in
 photos. A Westie is **pure white** with a neatly rounded face; a Cairn is
 **shaggier**, often with darker ears and muzzle.
+
+![West Highland White Terrier: pure white with a neatly rounded face](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_437.jpg)
+![Cairn Terrier: a pale wheaten Cairn - shaggier, with a scruffier, foxier face](https://images.dog.ceo/breeds/terrier-cairn/n02096177_1390.jpg)
 
 ## Other white dogs
 

@@ -38,6 +38,8 @@ reviewedOn: "2026-10-21"
 
 ## The Beagle
 
+![Beagle: small, compact tricolor hound - black saddle on the back, with tan and white - and long, wide drop ears](https://images.dog.ceo/breeds/beagle/n02088364_17553.jpg)
+
 Beagles are small **hounds** bred to hunt rabbits in packs by following scent.
 
 - **Size:** small and compact.
@@ -48,6 +50,8 @@ Beagles are small **hounds** bred to hunt rabbits in packs by following scent.
   in tall grass.
 
 ## The Standard Poodle
+
+![Standard Poodle: dense, curly coat in one solid color, a long fine muzzle, long flat ears and a square body](https://images.dog.ceo/breeds/poodle-standard/n02113799_5157.jpg)
 
 The Standard is the largest of the three poodle sizes (Standard, Miniature
 and Toy). Poodles were originally water retrievers.

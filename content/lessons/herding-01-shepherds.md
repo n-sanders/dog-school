@@ -40,6 +40,8 @@ a similar shape of head, so people mix them up.
 
 ## German Shepherd Dog
 
+![German Shepherd Dog: longer than tall, a back that slopes down toward the hindquarters, a dark saddle and a bushy tail hanging in a curve](https://images.dog.ceo/breeds/german-shepherd/n02106662_21348.jpg)
+
 - **Build:** longer than tall, with a back that **slopes** toward the hindquarters.
 - **Coat:** medium-length and thick.
 - **Color:** most often black and tan or black and red, with a dark **saddle**
@@ -47,6 +49,8 @@ a similar shape of head, so people mix them up.
 - **Tail:** bushy, hanging in a gentle curve.
 
 ## Belgian Malinois
+
+![Belgian Malinois: short, straight fawn coat with a black mask and black ears](https://images.dog.ceo/breeds/malinois/n02105162_10488.jpg)
 
 - **Build:** square, lighter-boned and leaner, with a **level** back.
 - **Coat:** **short** and straight.
